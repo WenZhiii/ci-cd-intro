@@ -7,4 +7,4 @@ router.get('/users', function (req, res, next) {
 })
 
 module.exports = router
-/* GET users listing. */
+
